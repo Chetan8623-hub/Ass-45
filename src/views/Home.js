@@ -32,7 +32,7 @@ function Home() {
   return (
     <main className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-tr from-yellow-100 via-red-100 to-orange-200 p-8">
       <Toaster />
-      <h1 className="text-4xl md:text-5xl font-bold mb-8 text-gray-800">🏅 New Scoreboard</h1>
+      <h1 className="text-4xl md:text-5xl font-bold mb-8 text-gray-800">🏅Scoreboard</h1>
 
       <div className="flex flex-col md:flex-row gap-10">
         {/* Team A Card */}
